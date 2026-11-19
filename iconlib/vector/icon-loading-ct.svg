@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="40.6px" width="40.6px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 20.3, 20.3)">
+    <use ffdec:characterId="625" height="180.0" transform="matrix(0.226, 0.0, 0.0, 0.226, 0.0, 0.0)" width="180.0" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="sprite0">
+      <use ffdec:characterId="624" height="180.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="180.0" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0">
+      <path d="M63.6 -63.65 Q90.0 -37.25 90.0 0.0 90.0 37.3 63.6 63.65 37.25 90.0 0.0 90.0 -37.3 90.0 -63.65 63.65 -90.0 37.3 -90.0 0.0 -90.0 -37.25 -63.65 -63.65 -37.3 -90.0 0.0 -90.0 37.25 -90.0 63.6 -63.65" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+      <path d="M-66.15 -64.65 L61.85 -64.65 61.85 63.35 -66.15 63.35 -66.15 -64.65" ffdec:fill-bitmapId="623" fill="#ff0000" fill-rule="evenodd"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.1113, 0.0, 0.0, 0.1113, 0.0, 0.0)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.611764705882353" stop-color="#000000"/>
+      <stop offset="1.0" stop-color="#010101" stop-opacity="0.0"/>
+    </radialGradient>
+  </defs>
+</svg>
