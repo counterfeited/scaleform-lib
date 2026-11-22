@@ -10,7 +10,7 @@ Pictures and sounds from the 2018 CS:GO Scaleform UI.
 | `iconlib/bitmaps` | the bitmaps embedded in the SWF: PNG (weapon pictures, grey and colour variants) and JPEG (country flags, `flag_XX.jpg`) | `iconlib.swf` |
 | `money` | the sprites of the money display | `money.swf` |
 | `cursor` | the mouse cursor: its sprite (`sprite-3`, SVG and PNG), the 32 x 32 bitmap it holds (`bitmap-1`) and that bitmap as raw RGBA (`cursor.rgba`, straight alpha) | `cursor.swf` |
-| `hud` | HUD pictures cut or drawn for the 2018 HUD: plates, icons, arrows, flags, team select and pause menu art, the buy-zone cart | the HUD movies (`hud*.swf`, `scoreboard.swf`, `chooseteam.swf`, `pausemenu.swf`, `money.swf`); a few are drawn from a movie's numbers |
+| `hud` | HUD pictures cut or drawn for the 2018 HUD: plates, icons, arrows, flags, team select, pause menu and main menu art (the top bar's icons, the background and its clouds and grain, the friends box's icons, the XP ranks, the credits' pictures), the buy-zone cart | the HUD movies (`hud*.swf`, `scoreboard.swf`, `chooseteam.swf`, `pausemenu.swf`, `money.swf`, `mainmenuselectpanel.swf`, `background.swf`, `credits.swf`, `mainmenuwarningspanel.swf`) and the 2018 client's `resource/flash/images/ui_icons` and `econ/status_icons`; a few are drawn from a movie's numbers |
 | `equipment` | the equipment icons by weapon name, SVG or PNG | `iconlib.swf` |
 | `sound` | the 2018 UI sounds, 16-bit PCM WAV | `pak01_dir.vpk` of the 2018 client |
 
